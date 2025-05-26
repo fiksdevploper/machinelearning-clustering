@@ -72,7 +72,7 @@ This project provides a clear methodology for customer segmentation using KMeans
 
 ## Author
 
-[Your Name]
+fiksdeveloper | dicoding academy
 
 ## Acknowledgements
 
