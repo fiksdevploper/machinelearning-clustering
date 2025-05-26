@@ -72,7 +72,7 @@ Proyek ini menyediakan metodologi yang jelas untuk segmentasi pelanggan mengguna
 
 ## Penulis
 
-fiksdeveloper | dicoding academy
+fiksdeveloper 
 
 ## Ucapan Terima Kasih
 
